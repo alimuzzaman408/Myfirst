@@ -17,7 +17,7 @@ public class Hello {
 		Calculations objCal = new Calculations();
 
 		int result1 = objCal.SumNumbers(10, 12);
-		System.out.println("*Summation value is : "+result1);
+		System.out.println("*Sum value is : "+result1);
 
 		int results2 = objCal.subNumbers(20, 12);
 		System.out.println("*Subtraction value is : "+results2);
