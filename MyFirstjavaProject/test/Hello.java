@@ -6,7 +6,7 @@ public class Hello {
 
 		//creating object of variables	
 		/*Variables objData=new Variables();
-        /Hello      
+          
 		//calling the method	
 		objData.IntegerVariables();
 		objData.FloatVariables();
